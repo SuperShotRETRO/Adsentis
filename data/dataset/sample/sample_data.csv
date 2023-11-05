@@ -1,0 +1,72 @@
+number,advertisement_text,time,review,sentiment
+11,"Above wind city card speak.",2023-11-05 13:15:00,"Offer entire notice.",neutral
+12,"Bed go during if meet road.",2023-11-05 13:30:00,"Similar rock career create war hotel five. Join return data usually various production. Great owner professional yet. Role number bank detail something.",mixed
+13,"Start else dinner.",2023-11-05 13:45:00,"Yeah here general husband operation ability small. Week detail image everyone every. Heart nice foreign blood.",positive
+14,"Buy back keep better town.",2023-11-05 14:00:00,"Future particularly store require fall.",neutral
+15,"Collection hospital authority specific.",2023-11-05 14:15:00,"Newspaper letter suddenly Republican doctor water some answer.",negative
+16,"Buy agent after their approach brother weight.",2023-11-05 14:30:00,"Oil care firm.",mixed
+17,"Training avoid down industry.",2023-11-05 14:45:00,"Risk who two. Long member almost until. Response check throughout seven American.",neutral
+18,"Treat other painting take.",2023-11-05 15:00:00,"Shake interesting arm land sure develop garden.",positive
+19,"Foreign image consumer unit business.",2023-11-05 15:15:00,"Reduce memory claim director.",neutral
+20,"Discover the best travel deals!",2023-11-05 15:30:00,"Our travel packages offer amazing destinations and unforgettable experiences.",positive
+21,"Exclusive offer on tech gadgets!",2023-11-05 15:45:00,"Upgrade your tech collection with the latest gadgets at unbeatable prices.",neutral
+22,"Get fit with our fitness club!",2023-11-05 16:00:00,"Join our fitness club for a healthier you. We have top-notch equipment and expert trainers.",negative
+23,"Home decor for a stylish living.",2023-11-05 16:15:00,"Transform your home with our stylish decor items. Elevate your living space.",mixed
+24,"Discover new culinary delights!",2023-11-05 16:30:00,"Join our gourmet cooking classes and master the art of cooking. A culinary delight awaits you.",neutral
+25,"Upgrade your audio experience.",2023-11-05 16:45:00,"Enhance your audio experience with our latest audio systems. Immerse yourself in superior sound quality.",positive
+26,"Improve your language skills.",2023-11-05 17:00:00,"Learn a new language with our online courses. Boost your language skills effortlessly.",positive
+27,"Explore the world of photography.",2023-11-05 17:15:00,"Unlock your creativity with our photography classes. Capture the world through your lens.",neutral
+28,"Experience thrilling adventure.",2023-11-05 17:30:00,"Embark on an adventure of a lifetime. Discover the thrill of outdoor activities.",mixed
+29,"Healthy eating for a healthier you.",2023-11-05 17:45:00,"Our healthy eating plan promotes wellness and vitality. Make the healthy choice.",neutral
+30,"The ultimate gaming experience.",2023-11-05 18:00:00,"Upgrade your gaming setup for the ultimate gaming experience. Unleash your gaming potential.",negative
+31,"Discover the world of arts.",2023-11-05 18:15:00,"Explore the arts with our creative workshops. Unlock your artistic potential.",positive
+32,"Tech innovation for the future.",2023-11-05 18:30:00,"Stay ahead with the latest tech innovations. Embrace the future of technology.",neutral
+33,"Join our fashion extravaganza!",2023-11-05 18:45:00,"Experience the latest fashion trends at our fashion show. Be part of the style revolution.",mixed
+34,"Upgrade your home entertainment.",2023-11-05 19:00:00,"Elevate your home entertainment with our premium audio and visual solutions. Enjoy the ultimate movie night.",positive
+35,"Discover the world of science.",2023-11-05 19:15:00,"Unravel the mysteries of science with our interactive science programs. Fuel your curiosity.",neutral
+36,"Experience the power of music.",2023-11-05 19:30:00,"Feel the magic of music with our music lessons. Discover your musical talent.",mixed
+37,"Upgrade your outdoor adventure.",2023-11-05 19:45:00,"Take your outdoor adventures to the next level with our outdoor gear. Explore the wild.",negative
+38,"Unlock your creative potential.",2023-11-05 20:00:00,"Join our creativity workshops and unlock your inner artist. Embrace the world of imagination.",positive
+39,"Experience the thrill of technology.",2023-11-05 20:15:00,"Feel the excitement of the latest tech gadgets. Elevate your tech game.",positive
+40,"Join our culinary journey.",2023-11-05 20:30:00,"Embark on a culinary journey with our cooking classes. Explore the world of flavors.",neutral
+41,"Upgrade your movie experience.",2023-11-05 20:45:00,"Transform your movie nights with our home theater systems. Enjoy cinematic brilliance at home.",neutral
+42,"Discover the magic of books.",2023-11-05 21:00:00,"Unleash the magic of books with our book club. Dive into captivating stories.",positive
+43,"Experience the thrill of motorsports.",2023-11-05 21:15:00,"Get your adrenaline pumping with our motorsports events. Feel the rush.",positive
+44,"Upgrade your fitness routine.",2023-11-05 21:30:00,"Elevate your fitness journey with our fitness equipment. Achieve your health goals.",neutral
+45,"Join the world of virtual reality.",2023-11-05 21:45:00,"Step into the world of virtual reality with our VR experiences. Explore new dimensions.",neutral
+46,"Discover the art of cooking.",2023-11-05 22:00:00,"Uncover the art of cooking with our culinary classes. Become a culinary master.",positive
+47,"Tech innovation for a brighter future.",2023-11-05 22:15:00,"Embrace tech innovation for a brighter future. Transform your life with cutting-edge technology.",neutral
+48,"Explore the world of nature.",2023-11-05 22:30:00,"Connect with nature through our guided nature tours. Discover the beauty of the natural world.",mixed
+49,"Upgrade your home office.",2023-11-05 22:45:00,"Enhance your productivity with our home office solutions. Create a productive work environment.",negative
+50,"Immerse in the world of fashion.",2023-11-05 23:00:00,"Dive into the fashion world with our trendy clothing collection. Stay stylish and confident.",positive
+51,"Discover the beauty of travel.",2023-11-05 23:15:00,"Explore breathtaking destinations with our travel packages. Create memorable travel experiences.",positive
+52,"Elevate your fitness journey.",2023-11-05 23:30:00,"Achieve your fitness goals with our state-of-the-art fitness equipment. Unleash your potential.",neutral
+53,"Step into the world of gaming.",2023-11-05 23:45:00,"Experience the excitement of gaming with our gaming accessories. Level up your gaming adventures.",neutral
+54,"Cook like a professional chef.",2023-11-05 00:00:00,"Master the culinary art with our cooking classes. Prepare delicious dishes like a pro.",positive
+55,"Stay ahead with tech innovations.",2023-11-05 00:15:00,"Be at the forefront of technology with our innovative tech gadgets. Embrace the future.",neutral
+56,"Connect with the wonders of wildlife.",2023-11-05 00:30:00,"Embark on a wildlife adventure with our guided safaris. Witness the magic of the animal kingdom.",mixed
+57,"Optimize your home office setup.",2023-11-05 00:45:00,"Enhance your productivity with our ergonomic home office solutions. Work smarter, not harder.",negative
+58,"Immerse in the world of arts.",2023-11-05 01:00:00,"Explore your artistic side with our art workshops. Create captivating artworks and express yourself.",positive
+59,"Feel the adrenaline of motorsports.",2023-11-05 01:15:00,"Get your heart racing with our motorsports events. Feel the rush of speed and excitement.",positive
+60,"Upgrade your outdoor adventure gear.",2023-11-05 01:30:00,"Equip yourself for thrilling outdoor expeditions with our high-quality adventure gear. Conquer the wilderness.",neutral
+61,"Escape to virtual realms.",2023-11-05 01:45:00,"Experience immersive virtual reality adventures with our VR headsets. Enter new dimensions of entertainment.",neutral
+62,"Explore the art of baking.",2023-11-05 02:00:00,"Master the art of baking with our baking classes. Create delectable pastries and desserts.",positive
+63,"Embrace sustainability with tech.",2023-11-05 02:15:00,"Contribute to a sustainable future with our eco-friendly tech innovations. Make a positive impact.",neutral
+64,"Discover the wonders of marine life.",2023-11-05 02:30:00,"Dive into the ocean's mysteries with our marine life expeditions. Witness incredible underwater beauty.",mixed
+65,"Enhance your home workspace.",2023-11-05 02:45:00,"Upgrade your home office setup with our modern workspace solutions. Boost your work-from-home experience.",negative
+66,"Unlock your inner fashionista.",2023-11-05 03:00:00,"Unleash your style with our trendy fashion collection. Elevate your fashion game.",positive
+67,"Journey to exotic destinations.",2023-11-05 03:15:00,"Embark on adventures to exotic locations with our travel packages. Discover the world's hidden gems.",positive
+68,"Elevate your workout routine.",2023-11-05 03:30:00,"Maximize your fitness journey with our premium workout equipment. Achieve your fitness goals.",neutral
+69,"Dive into virtual gaming worlds.",2023-11-05 03:45:00,"Experience the thrill of virtual gaming with our VR gaming accessories. Immerse yourself in virtual realms.",neutral
+70,"Master the art of culinary delights.",2023-11-05 04:00:00,"Become a culinary expert with our cooking classes. Create gourmet dishes like a seasoned chef.",positive
+71,"Stay updated with tech trends.",2023-11-05 04:15:00,"Keep up with the latest tech trends with our tech gadgets. Embrace the future of technology.",neutral
+72,"Discover the magic of forest life.",2023-11-05 04:30:00,"Connect with the enchanting world of forests on our guided nature walks. Explore the wonders of nature.",mixed
+73,"Revamp your home office space.",2023-11-05 04:45:00,"Transform your home office with our stylish and functional office furniture. Create a productive workspace.",negative
+74,"Unleash your artistic expression.",2023-11-05 05:00:00,"Express your creativity with our art workshops. Dive into the world of colors and imagination.",positive
+75,"Experience the thrill of racing.",2023-11-05 05:15:00,"Feel the rush of racing with our motorsports events. Speed up and embrace the adrenaline.",positive
+76,"Elevate your outdoor adventures.",2023-11-05 05:30:00,"Enhance your outdoor expeditions with our adventure gear. Gear up for thrilling escapades.",neutral
+77,"Step into virtual reality.",2023-11-05 05:45:00,"Explore virtual realms with our VR experiences. Immerse yourself in breathtaking virtual worlds.",neutral
+78,"Delve into the art of baking.",2023-11-05 06:00:00,"Master the art of baking with our baking classes. Create delicious bread and pastries.",positive
+79,"Embrace the future of tech.",2023-11-05 06:15:00,"Embrace the future of technology with our innovative tech gadgets. Stay ahead with cutting-edge tech.",neutral
+80,"Explore the beauty of national parks.",2023-11-05 06:30:00,"Explore the pristine beauty of national parks with our guided tours. Discover the wonders of nature.",mixed
+81,"Optimize your home office setup.",2023-11-05 06:45:00,"Optimize your home office with our ergonomic office solutions. Create a comfortable and productive workspace.",negative
